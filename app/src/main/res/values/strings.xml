@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quien e\' ma\' Viejo</string>
+    <string-array name="Generos">
+        <item>Choose one</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="genero">Genero</string>
+    <string name="date">Choose date</string>
+    <string name="send">Save</string>
+    <string name="User">User 1</string>
+    <string name="UserTwo">User 2</string>
+    <string name="Diferencia">Diferencia entre edades</string>
+    <string name="descripcion">Foto del usuario</string>
+    <string name="name">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="UserString">Datos de Usuario</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="edad">Edad </string>
+    <string name="fechaNacimiento">Fecha de nacimiento</string>
+</resources>
